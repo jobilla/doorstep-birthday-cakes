@@ -20,9 +20,11 @@ The **proposed** API for the service you build has the following endpoints:
 
 -   GET `/cake-stock`
     -   Returns what stocks are available, so the frontend can show what cakes to offer for purchase.
+    -   Query the bakery's API to get stock!
     
 -   POST `/reserve`
     -   Accepts a cake type, recipient name, recipient's birthday, recipient's street address, city of residence, and a rich message.
+    -   Place an order to the bakery's API when reserving!
     -   The message may include simple safe HTML, youtube embeds, and twitter embeds. Make it safe to display in a user's browser, as we may also display it on the web.
     
 -   GET `/deliveries-today?city=Helsinki`
