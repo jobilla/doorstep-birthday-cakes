@@ -52,7 +52,16 @@ You can consult the [**bakery's API documentation here**](https://cakery.docs.ap
 
 In addition, the marketing team also wants a marketing tool that **lists out all recipients & addresses whose birthdays fall on this day**, including those from past years, so we can send them marketing brochures.
 
-
+<p align="center">
+    <br>
+    <br>
+    <br>
+    <em>This concludes the code test segment of this document.</em>
+</p>
+   
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/1274731/147037683-7907f7e9-731c-4123-8c0b-2090431475f6.png">
+</p>
 
 ---
 
