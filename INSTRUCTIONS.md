@@ -101,5 +101,5 @@ about **both** the code you wrote and the specification you received.
 It can also include:
 - Anything you raised your eyebrows at
 - Things you would have done differently if you had more time or context
-- Anything you found epecially challenging
+- Anything you found especially challenging
 - Thoughts on Doorstep Birthday Cakes, Inc as a company
