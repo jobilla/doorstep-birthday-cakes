@@ -50,6 +50,8 @@ In addition, the marketing team also wants a marketing tool that **lists out all
 What we're looking for
 ----------------------
 
+We don't expect you to spend more than two hours on this code test.
+
 This code test is built to help us learn your skills with:
 
 -   Backend project management
