@@ -44,7 +44,7 @@ Don't worry about:
 
 ## 💡 The bakery's API
 
-You can consult the [**bakery's API documentation here**](https://cakery.docs.apiary.io/#reference/0/orders/list-all-cakes "https://cakery.docs.apiary.io/#reference/0/orders/list-all-cakes"). 
+You can consult the [**bakery's API documentation here**](https://api.cakery.dev/api-docs/). 
 
 (This API **already exists**; you **do not need to build this API.** We've made it for you, so your code test has another API to talk to.)
 
