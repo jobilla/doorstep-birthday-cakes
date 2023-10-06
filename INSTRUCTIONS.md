@@ -50,6 +50,8 @@ You can consult the [**bakery's API documentation here**](https://api.cakery.dev
 
 **Note**: This third party API is kind of flakey—we've seen it return HTTP 429 errors whenever we hit it with more than 60 requests a second. Make sure our API remains robust regardless!
 
+Do note that the cakery API requires Authorization header and API key provided in the body in order to work. The auth token and API key will be provided to you.
+
 ## But first, a request from marketing... (Bonus points... Maybe?)
 
 In addition, the marketing team also wants a marketing tool that **lists out all recipients & addresses whose birthdays fall on this day**, including those from past years, so we can send them marketing brochures.
